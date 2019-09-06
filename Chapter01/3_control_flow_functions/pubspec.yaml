@@ -1,0 +1,8 @@
+name: chapter1_functions
+version: 1.0.0
+description: >-
+  This folder contains all chapter 1 function examples. 
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  meta: ^1.1.6

@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - hands_on_background_process (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - hands_on_background_process (from `.symlinks/plugins/hands_on_background_process/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  hands_on_background_process:
+    :path: ".symlinks/plugins/hands_on_background_process/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  hands_on_background_process: 1ee621933cd60a85b4541132d2fddb9140583c1b
+
+PODFILE CHECKSUM: ad9c6f5b854c1f13799ba8e8e31e331878d50aa8
+
+COCOAPODS: 1.6.1

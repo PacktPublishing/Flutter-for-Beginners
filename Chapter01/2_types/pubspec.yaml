@@ -1,0 +1,9 @@
+name: chapter1_types
+version: 1.0.0
+description: >-
+  This folder contains all chapter 1 examples. 
+  If you don't understand this file, please check out chapter 3.  
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  meta: ^1.1.6

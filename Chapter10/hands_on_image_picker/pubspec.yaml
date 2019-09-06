@@ -1,0 +1,44 @@
+name: hands_on_image_picker
+description: A app to ask and do favors to/from a friend.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  uuid: 1.0.3
+  datetime_picker_formfield: ^0.1.8
+  firebase_core: ^0.3.1+1  # Firebase Core 
+  firebase_auth: ^0.8.2  # Firebase Auth   
+  cloud_firestore: ^0.9.5 # Cloud Firestore
+  firebase_storage: ^2.1.0 # Firebase Storage
+  image_picker: ^0.5.0 # Image picker
+  firebase_admob: ^0.8.0 # AdMob
+  firebase_ml_vision: ^0.6.0 # ML Vision
+  flutter_linkify: ^2.1.0 # Flutter Linkify
+  url_launcher: ^5.0.2 # url handler
+  contact_picker: ^0.0.2 # importing contact
+  permission_handler: ^3.0.0 # permission handler
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/default_avatar.png
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: fonts/Ubuntu-Regular.ttf
+        - asset: fonts/Ubuntu-Italic.ttf
+          style: italic
+        - asset: fonts/Ubuntu-Medium.ttf
+          weight: 500
+        - asset: fonts/Ubuntu-Bold.ttf
+          weight: 700

@@ -1,0 +1,1 @@
+Please, follow the official install instructions, they are updated:  https://flutter.io/docs/get-started/install

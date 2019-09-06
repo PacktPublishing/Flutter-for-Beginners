@@ -1,0 +1,22 @@
+name: hands_on_maps
+description: A google map Flutter example
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  google_maps_flutter: ^0.5.3
+  google_maps_webservice: ^0.0.12
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

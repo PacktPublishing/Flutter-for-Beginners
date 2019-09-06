@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - hands_on_platform_views (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - hands_on_platform_views (from `.symlinks/plugins/hands_on_platform_views/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  hands_on_platform_views:
+    :path: ".symlinks/plugins/hands_on_platform_views/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  hands_on_platform_views: 1c9eef04d3b28db831b5a3caca96dc1a9c7df36c
+
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+
+COCOAPODS: 1.6.1

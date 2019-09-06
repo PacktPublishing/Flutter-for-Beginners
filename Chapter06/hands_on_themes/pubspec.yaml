@@ -1,0 +1,22 @@
+name: hands_on_themes
+description: A app to ask and do favors to/from a friend.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  uuid: 1.0.3
+  datetime_picker_formfield: ^0.1.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true

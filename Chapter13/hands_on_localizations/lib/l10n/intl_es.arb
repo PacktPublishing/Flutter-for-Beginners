@@ -1,0 +1,14 @@
+{
+  "@@last_modified": "2019-04-22T21:32:20.153408",
+  "title": "Hola Traducciones Flutter",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "Hola Flutter",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

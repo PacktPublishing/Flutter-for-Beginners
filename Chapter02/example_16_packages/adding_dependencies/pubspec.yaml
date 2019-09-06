@@ -1,0 +1,28 @@
+name: adding_dependencies
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  json_serializable: ^1.0.0
+  # another packages
+  
+  # hosted source:
+  # json_serializable:
+  #   hosted:
+  #     name: json_serializable
+  #     url: http://pub-packages-private-server.com # changing server
+  
+  # path source:
+  # json_serializable:
+  #   path: /Users/biessek/json_serializable
+  
+  # git source:
+  # json_serializable:
+  #   git:
+  #     url: git://github.com/dart-lang/json_serializable.git
+  #     path: path/to/json_serializable   
+
+  # sdk source
+  # flutter_localizations: # a dependency available in th flutter sdk
+  #   sdk: flutter
